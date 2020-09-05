@@ -4,6 +4,14 @@
 ***Токен брать тут https://oauth.vk.com/authorize?client_id=7362610&scope=online&redirect_uri=https://oauth.vk.com/blank.html&display=page&response_type=token&revoke=1*** 
 ![example](https://i.imgur.com/Jpscnil.png)
 
+### **Как установить?**
+
+• **```git clone https://github.com/FunnyRain/Vk-Covid-Status.git```**
+• **```cd Vk-Covid-Status```**
+• **```npm install```**
+• **```*_* Настраиваем конфиг *_*```**
+• **```node app.js```**
+
 ### **```config.js```**
 
 ```js
