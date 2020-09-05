@@ -6,11 +6,11 @@
 
 ### **Как установить?**
 
-• **```git clone https://github.com/FunnyRain/Vk-Covid-Status.git```**
-• **```cd Vk-Covid-Status```**
-• **```npm install```**
-• **```*_* Настраиваем конфиг *_*```**
-• **```node app.js```**
+• **```git clone https://github.com/FunnyRain/Vk-Covid-Status.git```**<br>
+• **```cd Vk-Covid-Status```**<br>
+• **```npm install```**<br>
+• **```*_* Настраиваем конфиг *_*```**<br>
+• **```node app.js```**<br>
 
 ### **```config.js```**
 
