@@ -1,0 +1,28 @@
+{
+  "name": "vk-covid-status",
+  "version": "1.0.0",
+  "description": "sets the emoji to covid status on VK",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FunnyRain/Vk-Covid-Status.git"
+  },
+  "keywords": [
+    "vk",
+    "covid",
+    "status",
+    "emoji"
+  ],
+  "author": "FunnyRain (Vyxel)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FunnyRain/Vk-Covid-Status/issues"
+  },
+  "homepage": "https://github.com/FunnyRain/Vk-Covid-Status#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
